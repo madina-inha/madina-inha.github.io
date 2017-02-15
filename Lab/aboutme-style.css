@@ -1,0 +1,14 @@
+body{
+	background-color: pink;
+	margin-left: 10%;
+}
+
+h1, h2{
+
+	color:red;
+	font-family: Lucida Console;
+}
+
+strong{
+	color:#F617F6;
+}
